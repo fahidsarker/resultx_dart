@@ -1,3 +1,11 @@
+## 1.0.5
+
+- Fixed typo in README.md and revert some examples to previous state
+
+## 1.0.4
+
+- Updated docs
+
 ## 1.0.3
 
 - Added `Result.success` factory method
