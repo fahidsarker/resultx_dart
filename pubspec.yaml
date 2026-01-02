@@ -1,6 +1,6 @@
 name: resultx
-description: A Future Aware Result class to grcefully handle success and error and their Futures without the need to await on each step. It focuses on functional usage and method chaining to handle the results.
-version: 1.0.2
+description: A Future Aware Result class to grcefully handle success and error and their Futures without the need to await on each step
+version: 1.0.3
 repository: https://github.com/fahidsarker/dart_results
 
 environment:
